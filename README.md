@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Masoud Hatami.
+- 👋 Hi, I’m Masoud 
 - 👀 I’m interested to become  machine learning engineering.
 - 🌱 I’m currently learning python.
 - 📫 hatamimasoud08@gmail.com 
