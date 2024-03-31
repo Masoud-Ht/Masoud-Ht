@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Masoud 
-- 👀 I’m interested to become  machine learning engineering.
+- 👋 Hi, I’m Masoud.😁🧑‍🏫
+- 👀I'm interested in becoming a machine learning engineer.
 - 🌱 I’m currently learning python.
 - 📫 hatamimasoud08@gmail.com 
 
